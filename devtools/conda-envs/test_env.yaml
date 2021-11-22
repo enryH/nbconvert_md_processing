@@ -11,7 +11,7 @@ dependencies:
   - pytest
   - pytest-cov
 
-  # Pip-only installs
-  - pip:
-    - codecov
+  # # Pip-only installs
+  # - pip:
+  - codecov
 
